@@ -1,5 +1,5 @@
 <h4> Simple Dynamic Landing Page </h4>
-An inspiration from the chrome extension moment.
+An inspiration from the chrome extension <strong> "Moment". </strong>
 
 <h4> Built With </h4>
 - HTML <br>
